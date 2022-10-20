@@ -23,7 +23,7 @@
 *do not delete or ammend without the owner authorisation
 
 ## Link to the project
-*https://amwau.github.io/Moringa/
+*https://amwau.github.io/week-2/
 
 ## Copyright and license Information
 *All rights reserved. *Copyright (c) 2019 Annastacia
