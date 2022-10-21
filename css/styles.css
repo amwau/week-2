@@ -16,25 +16,26 @@ body{
      
    }
    .page-footer{
-     background-color: #8a2be2(0, 0%, 0%, 0.8); 
-     width: 100%;
+     background-color: #8a2be2;
+     
    }
    .overlay{
-     background-color:   red (82, 15, 21, 0.5);
-     margin-left: 25%;
-     margin-right: 16%;
-     opacity: 0.9;
-     border-radius: 10px;
+     background-color:   red;
+     
    }
    #get{
      color: whitesmoke;
-     text-shadow: 2px 2px 5px black;
-     margin-bottom: 10px;
+     
    }
    h2{
      text-align: center;
      font-weight: bold;
-     color:rgb(255, 255, 255);
+     color:blue;
+     margin-bottom: 0px;
+     margin-top: 10px;
+     padding-bottom: 2px;
+     font-size: 48px;
+     text-shadow: 2px 2px 5px black;
      font-family: 'Quattrocento', serif;
    }
    .form{
@@ -71,17 +72,8 @@ body{
      h2{
        font-size:22px;
      }
-     #heading img{
-       float: left;
-       width: 40%;
-       height: 60%;;
-     }
-   }
-   #heading img{
-     float: left;
-     width: 10%;
-     margin-top: -10px;
-   }
+   
+   
    .card{
      background: blue (145, 168, 192);
    }
